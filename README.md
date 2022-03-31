@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **94158952h@gmail.com**
 
-- 📄 Know about my experiences [Harsh](https://drive.google.com/file/d/10eqaH7vr7HG07XLP0DX4_qT3AwFMRa3G/view?usp=sharing)
+- 📄 Know about my experiences [Harsh Resume](https://drive.google.com/file/d/10eqaH7vr7HG07XLP0DX4_qT3AwFMRa3G/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
