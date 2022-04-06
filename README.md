@@ -6,7 +6,7 @@
                                     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lancelot03&label=Profile%20views&color=0e75b6&style=flat" alt="lancelot03" /> </p>
 
-- 📝 I regularly write [Code-The-Problem](https://github.com/Lancelot03/Code-The-Problem)
+- 📝 I regularly write [CodeTheProblem](https://github.com/Lancelot03/Code-The-Problem)
 
 - 💬 Ask me about **Python, C and Computer Vision**
 
