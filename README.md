@@ -47,3 +47,6 @@
 
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31drr6hfuuy7wxzdjavz7iejyuh4)</table></center>
   
+  
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=Lancelot03&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
