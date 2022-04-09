@@ -29,12 +29,21 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lancelot03&show_icons=true&locale=en" alt="lancelot03" /></p>
 
+<table align="right">
+  <tr>
+    <td  width="100%"><a href="https://twitter.com/github/status/1384130507898720262"><img width="100%" src="https://user-images.githubusercontent.com/121322/131424175-5150da6e-ccc7-4da3-b949-6654eec0b3dc.gif"></a><br><sup><strong>Video:</strong> NASA JPL</sup></td>
+   </tr>
+  </table>
+
+
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lancelot03&" alt="lancelot03" /></p>
 
 
 
-<center><table width="100%"> 
+<center><table align="right" width="100%"> 
   <tr>
   <td width="100%">
 
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31drr6hfuuy7wxzdjavz7iejyuh4)</center>
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31drr6hfuuy7wxzdjavz7iejyuh4)</table></center>
+  
