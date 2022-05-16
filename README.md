@@ -1,4 +1,4 @@
-![MasterHead](https://wallpapercave.com/wp/wp8391523.jpg)                                      
+![MasterHead](https://lh5.googleusercontent.com/TUQCYkT_Lv2Zk-XnY787TAoD5slsqh_Y5LrOEFOvKi2dpF49qUixm68783h2_kvlpAzZU4ZlpBOibNzy76blC3IUx0C3u84bD6kloLbl1g9c3pigiCFY0WoOLpvdn0Thbt9TmICF)                                      
 
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Computers are like Old Testament gods; lots of rules and no mercy.</h3>
