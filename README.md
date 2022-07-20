@@ -8,7 +8,7 @@
 
 - 📝 I regularly write [Code The Problem](https://github.com/Lancelot03/Code-The-Problem)
 
-- 💬 Ask me about **Python, C and Computer Vision**
+- 💬 Ask me about **Python, C, Machine Learning and Computer Vision**
 
 - 📫 How to reach me **harshsinghop3@gmail.com**
 
