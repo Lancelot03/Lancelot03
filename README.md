@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Python, C and Computer Vision**
 
-- 📫 How to reach me **94158952h@gmail.com**
+- 📫 How to reach me **harshsinghop3@gmail.com**
 
-- 📄 Know about my experiences [Harsh Resume](https://drive.google.com/file/d/1UUq66MC3idKCGL09KPlHkw8X4leivkAU/view?usp=sharing)
+- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1UUq66MC3idKCGL09KPlHkw8X4leivkAU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
