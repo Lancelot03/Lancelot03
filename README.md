@@ -1,4 +1,4 @@
-![MasterHead](https://lh5.googleusercontent.com/TUQCYkT_Lv2Zk-XnY787TAoD5slsqh_Y5LrOEFOvKi2dpF49qUixm68783h2_kvlpAzZU4ZlpBOibNzy76blC3IUx0C3u84bD6kloLbl1g9c3pigiCFY0WoOLpvdn0Thbt9TmICF)                                      
+![MasterHead](https://i2.wp.com/78.media.tumblr.com/b53ca9efca28cd4bfd50c75053ab7ef6/tumblr_p181xiiYQH1wxkod2o1_500.gif)                                      
 <h1 align="center">Hi 👋, I'm Harsh</h1>
 <h3 align="center">Computers are like Old Testament gods; lots of rules and no mercy.</h3>
 <img align="right" alt="Coding" width="600" src="https://image.myanimelist.net/ui/5LYzTBVoS196gvYvw3zjwOdl-LU9txIeQOCAHj7mALk")
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **harshsinghop3@gmail.com**
 
-- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1JB27nZvY1MbW56X35w1eMOeBhRjEY0sE/view?usp=sharing)
+- 📄 Know about my experiences [Harsh's Resume](https://drive.google.com/file/d/1ett7eUA67pGLu8Lk2MCBYg2RD6XxsKh6/view?usp=sharing)
 
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
